@@ -18,7 +18,7 @@
 
 ### :man_technologist: About Me :
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on some personal apps and data science research
 - 🌱 I’m currently learning java . And continous improvement on statistics and data science. ...
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
