@@ -18,12 +18,12 @@
 
 ### :man_technologist: About Me :
 
-- 🔭 I’m currently working on some personal apps and data science research
-- 🌱 I’m currently learning java . And continous improvement on statistics and data science. ...
+- 🔭 I’m currently working on some personal apps and data science research.
+- 🌱 I’m currently learning java . And continous improvement on statistics and data science.
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
-- 💬 Ask me about data, algorithms, cartoons
-- 📫 How to reach me: Linkedin
+- 💬 Ask me about data, algorithms, cartoons.
+- 📫 How to reach me: Linkedin.
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
 <!-- -->
