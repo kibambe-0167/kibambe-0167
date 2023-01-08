@@ -6,7 +6,6 @@
   <a href="https://www.linkedin.com/in/aaron-kibambe-8b5ba71a8/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>&nbsp;&nbsp;
-  
   <img src="https://komarev.com/ghpvc/?username=kibambe-0167&style=flat-square&color=blue" height="29" alt="Profile View"/>
 </div>
 
