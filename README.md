@@ -23,7 +23,12 @@
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about data, algorithms, cartoons.
-- 📫 How to reach me: Linkedin.
+- 📫 How to reach me: 
+<div aligh="center id="badges">
+  <a href="https://www.linkedin.com/in/aaron-kibambe-8b5ba71a8/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor="white" alt="LinkedIn Badge"/>
+  </a>                                                       
+</div>
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
 <!-- -->
