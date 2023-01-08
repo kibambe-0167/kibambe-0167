@@ -76,4 +76,4 @@
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - :seedling: Exploring Technical Content Writing. -->
 <!-- icons -> https://github.com/devicons/devicon/tree/master/icons -->
-<!-- Article -> https://www.sitepoint.com/github-profile-readme/-->
+<!-- Article -> https://www.sitepoint.com/github-profile-readme/ -->
