@@ -26,4 +26,4 @@
 - 📫 How to reach me: Linkedin
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
-<!-- --> -->
+<!-- -->
