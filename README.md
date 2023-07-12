@@ -1,15 +1,8 @@
-### :man_technologist: About Me :
-
-<div align="center" id="badges">
+<div align="left" id="badges">
   <a href="https://www.linkedin.com/in/aaron-kibambe-8b5ba71a8/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>&nbsp;&nbsp;
 </div>
-
-- 🔭 I’m currently working on some personal apps and data science research.
-- 🌱 I’m currently learning java . And continous improvement on statistics and data science.
-- 💬 Ask me about data, algorithms, cartoons.
-
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
