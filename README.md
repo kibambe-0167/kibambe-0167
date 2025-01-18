@@ -1,3 +1,3 @@
-data analyst. software engineer. web and mobile app developer.
+data analyst. software engineer. web and mobile app developer - learning
 
 --- 
